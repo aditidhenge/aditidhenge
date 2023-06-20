@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aditi-dhenge-452b4b22a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi-dhenge-452b4b22a" height="30" width="40" /></a>
 <a href="https://instagram.com/aditi_dhenge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditi_dhenge" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aditidhenge27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aditidhenge27" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ad2277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aditidhenge27" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
